@@ -10,3 +10,6 @@ First of all you must do:
 3. build by use this command: bazel build --verbose_failures tensorflow/tools/pip_package:build_pip_package
 4. export LC_ALL=C
 5. install by using this command: sudo python2.7 -m pip install /tmp/tensorflow_pkg/tensorflow-1.2.1-cp27-cp27mu-linux_aarch64.whl
+
+Download:
+* http://ai.2psoft.com/tensorflow/pine64/tensorflow-1.2.1-cp27-cp27mu-linux_aarch64.whl
